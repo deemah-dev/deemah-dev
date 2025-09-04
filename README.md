@@ -4,10 +4,6 @@
 
 ---
 
-📬 **For freelance work? do reach, [email](mailto:dima001161100@gmail.com) :)**
-
----
-
 ## 🛠️ Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -35,7 +31,7 @@
 ## 📂 Projects
 
 - [ATMSystem](https://github.com/deemah-dev/ATMSystem)  
-  ATM system built using Python, focusing on file operations and object-oriented programming.
+  ATM system built using C++, focusing on file operations and object-oriented programming.
 
 - [BankExtention_LoginWithUsername](https://github.com/deemah-dev/BankExtention_LoginWithUsername)  
   A banking extension project implementing login functionality with username.
