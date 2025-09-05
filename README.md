@@ -20,20 +20,9 @@
 
 ---
 
-📈 **my github stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deemad-dev&show_icons=true&theme=gotham" alt="deemad-dev" />
-</p>
-
----
-
 ## 📂 Projects
 
-- [ATMSystem](https://github.com/deemah-dev/ATMSystem)  
-  ATM system built using C++, focusing on file operations and object-oriented programming.
-
-- [BankExtention_LoginWithUsername](https://github.com/deemah-dev/BankExtention_LoginWithUsername)  
+- [BankSystem_OOP](https://github.com/deemah-dev/BankSystem_OOP)  
   A banking extension project implementing login functionality with username.
 
 - [StringClass_Library](https://github.com/deemah-dev/StringClass_Library)  
@@ -44,3 +33,9 @@
 
 - [UtilityClass_Library](https://github.com/deemah-dev/UtilityClass_Library)  
   A utility class library in C++ providing common utility functions.
+
+- [ATMSystem_POP](https://github.com/deemah-dev/ATMSystem)  
+  ATM system built using C++, focusing on file operations and object-oriented programming.
+
+- [BankSystem_POP](https://github.com/deemah-dev/BankSystem_POP)  
+  A banking extension project implementing login functionality with username.
