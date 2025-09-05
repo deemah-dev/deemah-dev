@@ -23,7 +23,7 @@
 ## 📂 Projects
 
 - [BankSystem_OOP](https://github.com/deemah-dev/BankSystem_OOP)  
-  A banking extension project implementing login functionality with username.
+  A banking System project Using OOP.
 
 - [StringClass_Library](https://github.com/deemah-dev/StringClass_Library)  
   A custom string class library in C++ for enhanced string manipulation.
@@ -38,4 +38,4 @@
   ATM system built using C++, focusing on file operations and object-oriented programming.
 
 - [BankSystem_POP](https://github.com/deemah-dev/BankSystem_POP)  
-  A banking extension project implementing login functionality with username.
+  A banking System project Using POP implementing login functionality with username.
