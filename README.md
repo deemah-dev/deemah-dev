@@ -1,6 +1,6 @@
 # Hello, I'm Deemah 👋
 
-💻 Self-Taught CS Student | ProgrammingAdvices Roadmap Student | Working with C++ & Visual Studio  
+💻 Self-Taught CS Student | ProgrammingAdvices Roadmap Student | Working with C# & .Net Framework 
 
 ---
 
