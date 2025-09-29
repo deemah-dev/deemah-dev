@@ -24,17 +24,29 @@
 
 ## 📂 Projects
 
-- [Simple_Calculator](https://github.com/deemah-dev/SimpleCalculator_WinForm)  
+- [Simple_Calculator](https://github.com/deemah-dev/SimpleCalculator_WinForm)
+  basic Windows Forms calculator that performs addition, subtraction,
+  multiplication, and division with a user-friendly interface.
 
-- [Date_Time_WinForm](https://github.com/deemah-dev/DateTime_WinForm)  
+- [Date_Time_WinForm](https://github.com/deemah-dev/DateTime_WinForm)
+  A date and time utility that calculates days, hours, minutes,
+  seconds in a year and computes age in years, months, and days.
 
-- [Tic Tac Toe Game](https://github.com/deemah-dev/TicTacToeGame_WindowsForm)  
+- [Tic Tac Toe Game](https://github.com/deemah-dev/TicTacToeGame_WindowsForm)
+  A two-player 3x3 Tic Tac Toe game with turn tracking,
+  winner detection, and restart functionality.
 
 - [Linked List Class](https://github.com/deemah-dev/DataStructure_LinkedList)
+  Template-based implementations of a doubly linked list, queue,
+  and stack with full insertion, deletion, and traversal operations.
   
-- [Undo And Redu Strings](https://github.com/deemah-dev/UndoRedu_OOP)  
+- [Undo And Redu Strings](https://github.com/deemah-dev/UndoRedu_OOP)
+  A string class supporting undo and redo operations
+  to navigate through the history of value changes.
 
-- [Dynamic Array Class](https://github.com/deemah-dev/DynamicArray_OOP)  
+- [Dynamic Array Class](https://github.com/deemah-dev/DynamicArray_OOP)
+  A template-based dynamic array that supports insertion,
+  deletion, resizing, reversing, and element access.
 
 - [BankSystem_OOP](https://github.com/deemah-dev/BankSystem_OOP)  
   A banking System project Using OOP.
