@@ -24,8 +24,11 @@
 
 ## 📂 Projects
 
+- [Simple_Calculator](https://github.com/deemah-dev/SimpleCalculator_WinForm)  
+
+- [Date_Time_WinForm](https://github.com/deemah-dev/DateTime_WinForm)  
+
 - [Tic Tac Toe Game](https://github.com/deemah-dev/TicTacToeGame_WindowsForm)  
-  A Game Using Windows Form
 
 - [Linked List Class](https://github.com/deemah-dev/DataStructure_LinkedList)
   
