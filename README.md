@@ -25,11 +25,21 @@
 
 ## 📂 Projects
 
+###C#
+- [Stone_Paper_Scissor_Game](https://github.com/deemah-dev/Stone_Paper_Scissor_Game_WinForm)
+  A simple Stone–Paper–Scissor game built with C# WinForms,
+  featuring multiple rounds, real-time results, and an animated computer turn.
+
+- [Sign-Up_Login](https://github.com/deemah-dev/Login_Sign-up_System_WinForm)
+  A simple C# WinForms application for user **Sign-Up and Login**,
+  featuring **file-based authentication**, input validation,
+  and temporary lockout after multiple failed login attempts.
+
 - [Simple_Calculator](https://github.com/deemah-dev/SimpleCalculator_WinForm)
   basic Windows Forms calculator that performs addition, subtraction,
   multiplication, and division with a user-friendly interface.
 
-- [Date_Time_WinForm](https://github.com/deemah-dev/DateTime_WinForm)
+- [Date_Time](https://github.com/deemah-dev/DateTime_WinForm)
   A date and time utility that calculates days, hours, minutes,
   seconds in a year and computes age in years, months, and days.
 
@@ -37,6 +47,7 @@
   A two-player 3x3 Tic Tac Toe game with turn tracking,
   winner detection, and restart functionality.
 
+###C++
 - [Linked List Class](https://github.com/deemah-dev/DataStructure_LinkedList)
   Template-based implementations of a doubly linked list, queue,
   and stack with full insertion, deletion, and traversal operations.
