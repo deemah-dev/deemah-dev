@@ -25,7 +25,7 @@
 
 ## 📂 Projects
 
-###C#
+### C#
 - [Stone_Paper_Scissor_Game](https://github.com/deemah-dev/Stone_Paper_Scissor_Game_WinForm)
   A simple Stone–Paper–Scissor game built with C# WinForms,
   featuring multiple rounds, real-time results, and an animated computer turn.
@@ -47,7 +47,7 @@
   A two-player 3x3 Tic Tac Toe game with turn tracking,
   winner detection, and restart functionality.
 
-###C++
+### C++
 - [Linked List Class](https://github.com/deemah-dev/DataStructure_LinkedList)
   Template-based implementations of a doubly linked list, queue,
   and stack with full insertion, deletion, and traversal operations.
