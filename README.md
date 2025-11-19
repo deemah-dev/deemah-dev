@@ -103,8 +103,7 @@ Here you'll find some of my projects.
   [https://github.com/deemah-dev/DateClass_Library]
 
 * **String Helper**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/StringClass_Library]
+  [https://github.com/deemah-dev/StringClass_Library]
 
 </details>
 
