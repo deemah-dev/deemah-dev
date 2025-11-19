@@ -23,23 +23,30 @@ Here you'll find some of my projects.
 ## 💻 Projects
 
 <details>
+<summary>🗄️ ADO.NET Projects</summary>
+
+* **My Libraries**
+  [https://github.com/deemah-dev/MyUtilities]
+
+* **Contacts Management System**
+  [https://github.com/deemah-dev/Contacts]
+
+</details>
+
+<details>
 <summary>🏦 Bank Systems</summary>
 
 * **Using C# ADO.Net**
-  *Description*: [N-Tire Architecture With ADO.Net Presented By WinForms]
-  *Repo*: [https://github.com/deemah-dev/BankSystem-4]
+  [https://github.com/deemah-dev/BankSystem-4]
 
 * **Using C# .Net**
-  *Description*: [WinForms Project]
-  *Repo*: [https://github.com/deemah-dev/BankSystem_3]
+  [https://github.com/deemah-dev/BankSystem_3]
 
 * **Using C++ With OOP**
-  *Description*: [Simple Project Using Object Oriented Programming With C++]
-  *Repo*: [https://github.com/deemah-dev/BankSystem_2]
+  [https://github.com/deemah-dev/BankSystem_2]
 
 * **Using C++ With Functional-Programming**
-  *Description*: [Simple Project Using Functional Programming With C++]
-  *Repo*: [https://github.com/deemah-dev/BankSystem_1]
+  [https://github.com/deemah-dev/BankSystem_1]
 
 </details>
 
@@ -47,50 +54,30 @@ Here you'll find some of my projects.
 <summary>🔑 Login Systems</summary>
 
 * **Using C# ADO.Net**
-  *Description*: [N-Tire Architecture With ADO.Net]
-  *Repo*: [https://github.com/deemah-dev/LoginSystem_2]
+  [https://github.com/deemah-dev/LoginSystem_2]
 
 * **Using C# .Net**
-  *Description*: [WinForms Project]
-  *Repo*: [https://github.com/deemah-dev/LoginSystem_1]
+  [https://github.com/deemah-dev/LoginSystem_1]
 
 </details>
 
 <details>
-<summary>🎮 Simple WinForms Projects</summary>
+<summary>🖥️ Simple WinForms Projects</summary>
 
 * **Math Quiz Game**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/MathQuizGame]
+  [https://github.com/deemah-dev/MathQuizGame]
 
 * **Stone Paper Scissor Game**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/Stone_Paper_Scissor_Game]
+  [https://github.com/deemah-dev/Stone_Paper_Scissor_Game]
 
 * **Tic Tac Toe Game**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/TicTacToeGame]
+  [https://github.com/deemah-dev/TicTacToeGame]
 
 * **Calculator**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/SimpleCalculator]
+  [https://github.com/deemah-dev/SimpleCalculator]
 
 * **Date Calculator**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/DateTime]
-
-</details>
-
-<details>
-<summary>🗄️ ADO.NET Projects</summary>
-
-* **My Libraries**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/MyUtilities]
-
-* **Contacts Management System**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/Contacts]
+  [https://github.com/deemah-dev/DateTime]
 
 </details>
 
@@ -98,28 +85,22 @@ Here you'll find some of my projects.
 <summary>🧩 Simple C++ Projects</summary>
 
 * **ATM System**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/ATMSystem]
+  [https://github.com/deemah-dev/ATMSystem]
 
 * **Undo & Redu**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/UndoRedu]
+  [https://github.com/deemah-dev/UndoRedu]
 
 * **Linked List**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/DataStructure_LinkedList]
+  [https://github.com/deemah-dev/DataStructure_LinkedList]
 
 * **Dynamic Array**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/DynamicArray]
+  [https://github.com/deemah-dev/DynamicArray]
 
 * **Utility**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/UtilityClass_Library]
+  [https://github.com/deemah-dev/UtilityClass_Library]
 
 * **Date Helper**
-  *Description*: [description]
-  *Repo*: [https://github.com/deemah-dev/DateClass_Library]
+  [https://github.com/deemah-dev/DateClass_Library]
 
 * **String Helper**
   *Description*: [description]
