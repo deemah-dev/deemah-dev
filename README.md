@@ -95,7 +95,7 @@ Here you'll find some of my projects.
 </details>
 
 <details>
-<summary>🗄️ Simple C++ Projects</summary>
+<summary>🧩 Simple C++ Projects</summary>
 
 * **ATM System**
   *Description*: [description]
