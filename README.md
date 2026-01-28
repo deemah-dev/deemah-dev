@@ -13,7 +13,6 @@ Here you'll find some of my projects.
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat\&logo=sql-server\&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?\&style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?\&style=flat\&logo=github\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat\&logo=leetcode\&logoColor=white)
 
 ---
