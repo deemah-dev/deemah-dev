@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deemah
+# 👋 Hi, I'm Dima
 
 Welcome to my GitHub portfolio! I'm a **Backend Developer** with experience in **C#, .NET, SQL Server**.
 Here you'll find some of my projects.
