@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dima
 
-Welcome to my GitHub portfolio! I'm a **Backend Developer** with experience in **C#, .NET, SQL Server**.
+Welcome to my GitHub portfolio! I'm a **Full Stack Desktop Developer**.
 Here you'll find some of my projects.
 
 ---
@@ -9,21 +9,36 @@ Here you'll find some of my projects.
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat\&logo=.net\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=c-sharp\&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-.NET-512BD4?style=flat)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-009688?style=flat)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat\&logo=visual-studio\&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-6DB33F?style=flat)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat\&logo=sql-server\&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?\&style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?\&style=flat\&logo=github\&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat\&logo=leetcode\&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-68217A?style=flat&logo=windows&logoColor=white)
+
 
 ---
 
 ## 💻 Projects
 
 <details>
-<summary>🗄️ ADO.NET Projects</summary>
+<summary>🖥️ WPF Projects With RESTful API & SQL Server</summary>
 
-* **My Libraries**
-  [https://github.com/deemah-dev/MyUtilities]
+* **Clinic Management System**
+  [https://github.com/deemah-dev/Clinic_MS]
+
+</details>
+
+<details>
+<summary>🪟 WinForms Projects With SQL Server</summary>
+
+* **DVLD**
+  [https://github.com/deemah-dev/dvld]
 
 * **Contacts Management System**
   [https://github.com/deemah-dev/Contacts]
@@ -33,16 +48,16 @@ Here you'll find some of my projects.
 <details>
 <summary>🏦 Bank Systems</summary>
 
-* **Using C# ADO.Net**
+* **Using WinForms C# ADO.Net, SQL Server**
   [https://github.com/deemah-dev/BankSystem-4]
 
-* **Using C# .Net**
+* **Using WinForms C# .Net, Text Files**
   [https://github.com/deemah-dev/BankSystem_3]
 
-* **Using C++ With OOP**
+* **Using C++ With OOP, Text Files**
   [https://github.com/deemah-dev/BankSystem_2]
 
-* **Using C++ With Functional-Programming**
+* **Using C++ With Functional-Programming, Text Files**
   [https://github.com/deemah-dev/BankSystem_1]
 
 </details>
@@ -50,16 +65,16 @@ Here you'll find some of my projects.
 <details>
 <summary>🔑 Login Systems</summary>
 
-* **Using C# ADO.Net**
+* **Using WinForms C# ADO.Net, Sql Server**
   [https://github.com/deemah-dev/LoginSystem_2]
 
-* **Using C# .Net**
+* **Using WinForms C# .Net, Text Files**
   [https://github.com/deemah-dev/LoginSystem_1]
 
 </details>
 
 <details>
-<summary>🖥️ Simple WinForms Projects</summary>
+<summary>🪟 Simple WinForms Projects</summary>
 
 * **Math Quiz Game**
   [https://github.com/deemah-dev/MathQuizGame]
