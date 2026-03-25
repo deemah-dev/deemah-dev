@@ -27,14 +27,6 @@ Here you'll find some of my projects.
 ## 💻 Projects
 
 <details>
-<summary>🖥️ WPF Projects With RESTful API & SQL Server</summary>
-
-* **Clinic Management System**
-  [https://github.com/deemah-dev/Clinic_MS]
-
-</details>
-
-<details>
 <summary>🪟 WinForms Projects With SQL Server</summary>
 
 * **DVLD**
