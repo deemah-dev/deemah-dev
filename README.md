@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dima
 
-Welcome to my GitHub portfolio! I'm a **Back-end Developer**.
+Welcome to my GitHub portfolio! I'm a **Full Stack Developer**.
 Here you'll find some of my projects.
 
 ---
